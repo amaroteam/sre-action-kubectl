@@ -1,0 +1,6 @@
+name: sre-action-kubectl
+description: "This action provides kubectl for Github Actions."
+author: 'amaro'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
